@@ -6,8 +6,7 @@ This is my implementation of a popular Snake game.
 
 ## Built With
 + Java
-+ Swing
-+ AWT
++ Java Libraries: Swing, AWT
 
 
 ## Getting Started
